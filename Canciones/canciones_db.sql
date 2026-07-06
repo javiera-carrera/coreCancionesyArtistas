@@ -1,0 +1,1 @@
+CREATE DATABASE canciones_db;
